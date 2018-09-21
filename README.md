@@ -1,5 +1,6 @@
 # Clustering-Twitter-Health-Data
-•	Steps 
+Database - 
+Steps 
 1.	Data Processing  
 Extracted the content of each twitter account, and remove the URL, punctuations and numbers. 
 2.	Calculation 
